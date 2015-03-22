@@ -1,0 +1,2 @@
+# RemoveEmptyDirs
+See name.
